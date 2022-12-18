@@ -1,0 +1,18 @@
+{
+    "symbol": "AAPL:NASDAQ",
+    "name": "Apple Inc",
+    "type": "stock",
+    "price": 134.51,
+    "change": -1.99,
+    "change_percent": -1.4579,
+    "previous_close": 136.5,
+    "last_update_utc": "2022-12-17 01:00:00",
+    "country_code": "US",
+    "exchange": "NASDAQ",
+    "exchange_open": "2022-12-16 09:30:00",
+    "exchange_close": "2022-12-16 16:00:00",
+    "timezone": "America/New_York",
+    "utc_offset_sec": -18000,
+    "currency": "USD",
+    "google_mid": "/m/07zmbvf"
+}
